@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.jetbrains.java_interpreter.interpreter.InterpreterTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.838 s -- in com.jetbrains.java_interpreter.interpreter.InterpreterTest
