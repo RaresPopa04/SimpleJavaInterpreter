@@ -1,0 +1,13 @@
+com\jetbrains\java_interpreter\exceptions\interpreter\InvalidAssignmentError.class
+com\jetbrains\java_interpreter\exceptions\base\ErrorType.class
+com\jetbrains\java_interpreter\interpreter\InterpreterService.class
+com\jetbrains\java_interpreter\exceptions\interpreter\InvalidSyntaxError.class
+com\jetbrains\java_interpreter\exceptions\interpreter\UnmatchedBracesError.class
+com\jetbrains\java_interpreter\classes\Scope.class
+com\jetbrains\java_interpreter\classes\CodeRequest.class
+com\jetbrains\java_interpreter\exceptions\base\CompileError.class
+com\jetbrains\java_interpreter\classes\CompiledResult.class
+com\jetbrains\java_interpreter\controller\InterpreterController.class
+com\jetbrains\java_interpreter\JavaInterpreterApplication.class
+com\jetbrains\java_interpreter\classes\CompiledResult$CompiledResultBuilder.class
+com\jetbrains\java_interpreter\validator\Validator.class
